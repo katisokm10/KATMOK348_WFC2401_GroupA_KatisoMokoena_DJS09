@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s01jgtk",
+  "name": "project",
   "description": "https://v2.scrimba.com/learn-typescript-c0l/~01i",
   "scripts": {
     "watch": "webpack -w",
